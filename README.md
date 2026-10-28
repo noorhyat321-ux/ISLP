@@ -1,6 +1,6 @@
 ISLP — Statistical Learning with Python
 
-Overview
+
 
 Study notes and  exercises for :
    - Stanford's Statistical Learning with Python course on edX
